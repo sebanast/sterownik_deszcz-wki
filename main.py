@@ -1,0 +1,1 @@
+import timetime.sleep(10)print('zaczynam main')import sterowniksterownik.petla()
